@@ -1,0 +1,4 @@
+difflib
+numpy
+pandas
+scikit-learn
